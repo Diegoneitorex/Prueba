@@ -1,0 +1,26 @@
+body {
+    background-color: #87CEEB;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.flexbox {
+    background-color: #001F3F;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.section {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.column {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 45%;
+    padding: 10px;
+}
