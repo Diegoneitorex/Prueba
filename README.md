@@ -2,11 +2,9 @@
 
 # Prueba
 
-> One paragraph statement about the project.
-
 ![Static Badge](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&logoSize=auto&labelColor=white).
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Captura.PNG)
 
 Additional description about the project and its features.
 
@@ -18,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](http://127.0.0.1:5500/index.html)
 
 ## Getting Started
 
@@ -41,17 +39,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Diego Andres Rivero Fernandez**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@Diegoneitorex](https://github.com/Diegoneitrex)
 
 ## 🤝 Contributing
 
